@@ -1,0 +1,109 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<head>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css" />
+<title >Akira Toriyama Tribute Page</title>
+</head>
+<body>
+  <main id="main">
+  <h1 id="title">Akira Toriyama</h1>
+    <p>A man who changed Anime Forever...</p>
+
+  <div id="img-div">
+    <img id="image" src="https://www.prensalibre.com/wp-content/uploads/2024/03/Akira-Toriyama00.jpg" alt="Toriyama captured in 1982">
+    <figcaption id="img-caption">Akira Toriyama Photographed in Japan May 1982</figcaption>
+  </div>
+<section id="tribute-info">
+<h2 id="headline">A Timeline of Toriyama's Life:</h2>
+<ul>
+<li><strong>April 5, 1955</strong> - Akira Toriyama is born in Hepburn, Japan</li>
+<li><strong>1978</strong> - Publishes first manga called Wonder Island in Weekly Shonen Jump</li>
+<li><strong>1980</strong> - Publishes first succesful manga in the Weekly Shonen Jump titled Dr.Slump</li>
+<li><strong>1981</strong> - Dr.Slump earns the Shogakukan Manga Award of the year</li>
+<li><strong>1981</strong> - Dr.Slump gains aired anime adaptation that runs through 1981-1999</li>
+<li><strong>1982</strong> - Toriyama is Married to Yoshimi Kato</li>
+<li><strong>1983</strong> - A two-part manga called Dragon Boy is released</li>
+<li><strong>1984</strong> - Dragon Boy becomes Dragon Ball and is released in Shonen Jump</li>
+<li><strong>1984-1995</strong> - Dragon Ball Sells 159.5 million copies in Weekly Shonen Jump becoming the best-selling series of all time</li>
+<li><strong>1986</strong> - Toriyama releases one-shot manga named Mr.Ho</li>
+<li><strong>1988</strong> - Toriyama releases one-shot manga named Young Master Ken'nosuke</li>
+<li><strong>1989</strong> - Toriyama releases one-shot manga named The Elder</li>
+<li><strong>1996</strong> - Dragon Ball's 3rd animation adpation(GT) is aired</li>
+<li><strong>1999-2005</strong> - Toriyama releases self-parody of Dragon Ball known as Neko Majin</li>
+<li><strong>2013</strong> - Dragon Ball Z:Battle of Gods becomes Toriyama's 1st theatrical flim in 17 years</li>
+<li><strong>March 1, 2024</strong> - Toriyama dies of subdural hematoma at the yound age of 68</li>
+</ul>
+
+
+<p id="quote">"Too much FANTASY loses REALITY, too much HOPE may seem somehow EMPTY"    
+  -Akira Toriyama
+</p>
+
+<h3>If you have time and would like to learn more about Toriyama's life and works check out his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Akira_Toriyama#Early_life" target="_blank">Wikipedia Entry</a></h3>
+</section>
+</main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+h1 {
+  text-align: center;
+  font-family: verdana;
+  font-size: 45px;
+  color: #222222;
+}
+
+body {
+  background-color: #f5f5dc;
+}
+
+p {
+  font-style: italic;
+  font-family: verdana;
+  font-size: 14px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  padding: auto;
+}
+
+figcaption {
+  font-style: bold;
+  font-size: 11px;
+  text-align: center;
+  font-family: verdana;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  padding: 15px 30px 60px auto;
+
+
+}
+ul {
+  font-size: 15px;
+  font-family: verdana;
+  padding: 20px 30px 60px 90px;
+  border-top: auto;
+  border-bottom: auto;
+  border-right: 20px;
+  border-left: 20px;
+  line-height: 2.0rem;
+  max-width: 400px;
+}
+
+** end of undefined **
+
